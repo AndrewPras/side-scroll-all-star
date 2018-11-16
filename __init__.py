@@ -1,4 +1,4 @@
-from ScreenCapture import screen_record_efficient
+from screencapture import screen_record_efficient
 from FPS import FPS
 
 
